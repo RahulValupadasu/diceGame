@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">dicedemo</string>
+    <string name="DecriptionLogo">los vegas logo</string>
+    <string name="dice">Dice</string>
+    <string name="btn">ROLE</string>
+    <string name="HigherBtn">Higher</string>
+    <string name="LowerBtn">Lower</string>
+    <string name="UserWin">User Winner</string>
+    <string name="CompWin">Computer Winner</string>
+    <string name="draw">Draw</string>
+    <string name="userDie">User Die</string>
+    <string name="ComputerDie">Computer Die</string>
+</resources>
